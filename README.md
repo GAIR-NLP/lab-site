@@ -1,5 +1,5 @@
 # lab-site
-Website of GAIR LabSite
+GAIR LabSite
 
 ## How to modify the website
 * Choose the specific file you want to modify
